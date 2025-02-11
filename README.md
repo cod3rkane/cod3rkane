@@ -1,5 +1,12 @@
 ## Hi There, I'm Julio Cesar Lopes
-> Dynamic and results-driven software engineer with over 7 years of expertise in developing and maintaining web applications using cutting-edge technologies, including React, Redux, GraphQL, TypeScript, and Node.js. Possesses 5+ years of hands-on experience with testing frameworks such as React Testing Library, Jest, Mocha, Cypress, and Selenium, ensuring robust and reliable code. Brings over 9 years of proficiency in JavaScript ecosystems, HTML, and CSS, combined with 5+ years of specialization in functional programming using tools like fp-ts and Ramda.js. Skilled communicator fluent in English and Portuguese, adept at collaborating with diverse teams and stakeholders.
+<ul>
+  <li>Senior Software Engineer with Over 7 years of expertise in React, Redux, GraphQL, TypeScript, and Node.js.</li>
+  <li>Possesses 5+ years of hands-on experience with React Testing Library, Jest, Mocha, Cypress, and Selenium, ensuring robust and reliable code.</li>
+  <li>Brings over 9 years of proficiency in JavaScript ecosystems, HTML, and CSS.</li>
+  <li>Combined with 5+ years of specialization in functional programming using fp-ts, and Ramda.js.</li>
+  <li>Skilled communicator fluent in English and Portuguese, adept at collaborating with diverse teams and stakeholders.</li>
+</ul>
+
 ## Skills
 <div style="display: inline_block">
   <a href="https://github.com/cod3rkane">

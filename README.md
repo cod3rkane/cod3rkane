@@ -1,6 +1,7 @@
 ## Hi There, I'm Julio Cesar Lopes
 <ul>
   <li>Senior Software Engineer with Over 7 years of expertise in React, Redux, GraphQL, TypeScript, and Node.js.</li>
+  <li>Over 5+ years experience with C/C++, Rust, OpenGL, WebGL, GLSL and Unreal Engine.</li>
   <li>Over 4+ years using NextJS, Storybook, Prisma, Styled Components, Tailwind and StylexJS.</li>
   <li>Possesses 5+ years of hands-on experience with React Testing Library, Jest, Mocha, Cypress, and Selenium, ensuring robust and reliable code.</li>
   <li>Brings over 9 years of proficiency in JavaScript ecosystems, HTML, and CSS.</li>

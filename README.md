@@ -1,12 +1,14 @@
 ## Hi There, I'm Julio Cesar Lopes
 <ul>
-  <li>Senior Software Engineer with Over 7 years of expertise in React, Redux, GraphQL, TypeScript, and Node.js.</li>
-  <li>Over 5+ years experience with C/C++, Rust, OpenGL, WebGL, GLSL and Unreal Engine.</li>
-  <li>Over 4+ years using NextJS, Storybook, Prisma, Styled Components, Tailwind and StylexJS.</li>
-  <li>Over 3+ years with Rocket, Tokio, Actix, Serde, and Rayon Frameworks.</li>
-  <li>Possesses 5+ years of hands-on experience with React Testing Library, Jest, Mocha, Cypress, and Selenium, ensuring robust and reliable code.</li>
-  <li>Brings over 9 years of proficiency in JavaScript ecosystems, HTML, and CSS.</li>
-  <li>Combined with 5+ years of specialization in functional programming using fp-ts, and Ramda.js.</li>
+  <li>Senior Software Engineer with over 10 years of experience developing and scaling high-performance web applications across fintech, e-commerce, and enterprise domains.</li>
+  <li>Expert in end-to-end delivery, from monolith migrations to microservices, front-end architectures, CI/CD pipelines, and real-time monitoring; passionate about driving measurable impact.</li>
+  <li>Throughout my career, I have contributed to high-impact projects at leading companies like Just Eat Takeaway, SkipTheDishes, and Farfetch.</li>
+  <li>Over 6+ years experience with C/C++, Rust, OpenGL, WebGL, GLSL and Unreal Engine.</li>
+  <li>Over 6+ years using NextJS, Storybook, Prisma, Styled Components, Tailwind and StylexJS.</li>
+  <li>Over 4+ years with Rocket, Tokio, Actix, Serde, and Rayon Frameworks.</li>
+  <li>Possesses 8+ years of hands-on experience with React Testing Library, Jest, Mocha, Cypress, and Selenium, ensuring robust and reliable code.</li>
+  <li>Brings over 10 years of proficiency in JavaScript ecosystems, HTML, and CSS.</li>
+  <li>Combined with 8+ years of specialization in functional programming using fp-ts, and Ramda.js.</li>
   <li>Skilled communicator fluent in English and Portuguese, adept at collaborating with diverse teams and stakeholders.</li>
 </ul>
 

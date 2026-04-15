@@ -12,7 +12,7 @@
 
 ## Skills
 <div style="display: inline_block">
-  <a style="display: inline_block" href="https://github.com/cod3rkane">
+  <a style="display: flex;justify-content: center;" href="https://github.com/cod3rkane">
   <img align="center" alt="cod3r-rust" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/rust/rust-original.svg">
   <img align="center" alt="cod3r-opengl" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/opengl/opengl-plain.svg">
   <img align="center" alt="cod3r-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

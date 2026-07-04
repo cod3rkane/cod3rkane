@@ -1,15 +1,32 @@
 ## Hi There, I'm Julio Cesar Lopes
 <ul>
-  <li>Senior Software Engineer with over 10 years of experience developing and scaling high-performance web applications across fintech, e-commerce, and enterprise domains.</li>
-  <li>Expert in end-to-end delivery, from monolith migrations to microservices, front-end architectures, CI/CD pipelines, and real-time monitoring; passionate about driving measurable impact.</li>
-  <li>Throughout my career, I have contributed to high-impact projects at leading companies like Just Eat Takeaway, SkipTheDishes, and Farfetch.</li>
-  <li>Over 6+ years experience with C/C++, Rust, OpenGL, WebGL, GLSL and Unreal Engine.</li>
-  <li>Over 6+ years using NextJS, Storybook, Prisma, Styled Components, Tailwind and StylexJS.</li>
-  <li>Over 4+ years with Rocket, Tokio, Actix, Serde, and Rayon Frameworks.</li>
-  <li>Possesses 8+ years of hands-on experience with React Testing Library, Jest, Mocha, Cypress, and Selenium, ensuring robust and reliable code.</li>
-  <li>Brings over 10 years of proficiency in JavaScript ecosystems, HTML, and CSS.</li>
-  <li>Combined with 8+ years of specialization in functional programming using fp-ts, and Ramda.js.</li>
-  <li>Skilled communicator fluent in English and Portuguese, adept at collaborating with diverse teams and stakeholders.</li>
+  <li><b>Senior Software Engineer | AI, Data Science, Fullstack Architect</b> A highly accomplished engineer with over a decade of experience architecting, developing, and scaling high-performance web applications across FinTech, E-commerce, and Enterprise platforms.</li>
+  <li>
+    <b>🎯 Core Strengths & Focus Areas:</b>
+    <ul>
+      <li><b>Artificial Intelligence (AI) & Data Science:</b> Designing and implementing end-to-end AI/ML pipelines, and <b>Agentic Systems with ACP and MCP</b>, using Typescript, Rust, and Python, specializing in data processing, model deployment, and building scalable <b>Agentic Libraries</b>.</li>
+      <li><b>Architecture & Delivery:</b> Expertise in full application lifecycle management, including monolith migrations, microservices architecture design, and establishing robust CI/CD practices.</li>
+      <li><b>Impact & Leadership:</b> Proven track record of delivering measurable business impact at industry leaders (e.g., Just Eat Takeaway, Farfetch).</li>
+    </ul>
+  </li>
+  <li>
+    <b>🛠️ Technical Proficiency Stack:</b>
+    <ul>
+      <li><b>Backend Languages:</b> Python (Primary focus for AI/Data Science), Rust, C/C++, Node.js.</li>
+      <li><b>Frontend & Fullstack:</b> NextJS, React, Storybook, TypeScript (fp-ts), Styled Components, Tailwind CSS.</li>
+      <li><b>Backend/Async Frameworks:</b> Tokio, Actix, Rocket (Rust) and similar asynchronous backend principles in Python.</li>
+      <li><b>Data Layer:</b> Prisma ORM, PostgreSQL (High reliability).</li>
+    </ul>
+  </li>
+  <li>
+    <b>🧪 Testing & Quality Assurance:</b> Proficient in establishing robust testing suites using React Testing Library, Jest, Mocha, Cypress, and Selenium.
+  </li>
+  <li>
+    <b>🌐 Secondary Skills:</b> OpenGL, WebGL, GLSL, Unreal Engine exposure; 10+ years JavaScript ecosystem proficiency; Functional Programming concepts (fp-ts/Ramda.js/F#).
+  </li>
+  <li>
+    <b>🌎Skilled Communicator Fluent:</b> in English and Portuguese.
+  </li>
 </ul>
 
 ## Skills
